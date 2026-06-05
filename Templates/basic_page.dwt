@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>basic_page</title>
+<!-- TemplateEndEditable -->
+<style>
+		
+	.shadow {
+    -webkit-box-shadow: inset 6px 6px #0C6503;
+    box-shadow: inset 6px 6px #0C6503;
+}
+    </style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<!--comment
+-->
+	/* Add this as properties to a selector */
+	<table width="100%" border="1" cellspacing="0" cellpadding="5">
+  <tbody>
+    <tr>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	<div class='shadow'>
+		
+	
+	</div>
+
+	background-image: url("image url"), url("image url");
+	background-color: rgba(159,232,251,0.42);
+	background-size: 50% 100%;
+	background-repeat: no-repeat, no-repeat;
+<body>
+<nav class="secondary_header" id="menu">Content for  class "secondary_header" id "menu" Goes Here</nav>
+</body>
+</html>

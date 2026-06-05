@@ -1,0 +1,454 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon_open_city";
+  src: url("./flaticon_open_city.ttf?66b2f7cf78834ffacc363e8603d90da7") format("truetype"), url("./flaticon_open_city.woff?66b2f7cf78834ffacc363e8603d90da7") format("woff"), url("./flaticon_open_city.woff2?66b2f7cf78834ffacc363e8603d90da7") format("woff2"), url("./flaticon_open_city.eot?66b2f7cf78834ffacc363e8603d90da7#iefix") format("embedded-opentype"), url("./flaticon_open_city.svg?66b2f7cf78834ffacc363e8603d90da7#flaticon_open_city") format("svg"); }
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon_open_city !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.flaticon-align-right:before {
+  content: ""; }
+
+.flaticon-align:before {
+  content: ""; }
+
+.flaticon-animal:before {
+  content: ""; }
+
+.flaticon-art-gallery:before {
+  content: ""; }
+
+.flaticon-art:before {
+  content: ""; }
+
+.flaticon-artboard:before {
+  content: ""; }
+
+.flaticon-badge-1:before {
+  content: ""; }
+
+.flaticon-badge:before {
+  content: ""; }
+
+.flaticon-bank:before {
+  content: ""; }
+
+.flaticon-big-bag-with-handles:before {
+  content: ""; }
+
+.flaticon-big-box:before {
+  content: ""; }
+
+.flaticon-big-brochure:before {
+  content: ""; }
+
+.flaticon-big-clip:before {
+  content: ""; }
+
+.flaticon-big-folder:before {
+  content: ""; }
+
+.flaticon-big-mug:before {
+  content: ""; }
+
+.flaticon-big-paint-roller:before {
+  content: ""; }
+
+.flaticon-billboard-with-text:before {
+  content: ""; }
+
+.flaticon-blank-paper:before {
+  content: ""; }
+
+.flaticon-bottle-of-glue:before {
+  content: ""; }
+
+.flaticon-brochure-folded:before {
+  content: ""; }
+
+.flaticon-cd-box:before {
+  content: ""; }
+
+.flaticon-cello-tape:before {
+  content: ""; }
+
+.flaticon-chat-1:before {
+  content: ""; }
+
+.flaticon-chat-2:before {
+  content: ""; }
+
+.flaticon-chat-3:before {
+  content: ""; }
+
+.flaticon-chat-bubble-1:before {
+  content: ""; }
+
+.flaticon-chat-bubble:before {
+  content: ""; }
+
+.flaticon-chat:before {
+  content: ""; }
+
+.flaticon-chromatic-circle:before {
+  content: ""; }
+
+.flaticon-circular-sticker:before {
+  content: ""; }
+
+.flaticon-closed-book:before {
+  content: ""; }
+
+.flaticon-cmyk-circles:before {
+  content: ""; }
+
+.flaticon-comment:before {
+  content: ""; }
+
+.flaticon-computer-monitor-back-view:before {
+  content: ""; }
+
+.flaticon-contact:before {
+  content: ""; }
+
+.flaticon-continuous-feed-paper:before {
+  content: ""; }
+
+.flaticon-crop-symbol:before {
+  content: ""; }
+
+.flaticon-cube-template:before {
+  content: ""; }
+
+.flaticon-cutter-with-lines:before {
+  content: ""; }
+
+.flaticon-down-arrow-1:before {
+  content: ""; }
+
+.flaticon-down-arrow:before {
+  content: ""; }
+
+.flaticon-down:before {
+  content: ""; }
+
+.flaticon-drawing-pens:before {
+  content: ""; }
+
+.flaticon-dropper-with-liquid:before {
+  content: ""; }
+
+.flaticon-email:before {
+  content: ""; }
+
+.flaticon-employee:before {
+  content: ""; }
+
+.flaticon-empty-box-open:before {
+  content: ""; }
+
+.flaticon-fabric-paint:before {
+  content: ""; }
+
+.flaticon-facebook:before {
+  content: ""; }
+
+.flaticon-favorites:before {
+  content: ""; }
+
+.flaticon-first-printer:before {
+  content: ""; }
+
+.flaticon-fountain-pen:before {
+  content: ""; }
+
+.flaticon-fox:before {
+  content: ""; }
+
+.flaticon-gallery-1:before {
+  content: ""; }
+
+.flaticon-garbage-truck:before {
+  content: ""; }
+
+.flaticon-hanging-billboard:before {
+  content: ""; }
+
+.flaticon-history:before {
+  content: ""; }
+
+.flaticon-home:before {
+  content: ""; }
+
+.flaticon-hut:before {
+  content: ""; }
+
+.flaticon-image:before {
+  content: ""; }
+
+.flaticon-inclined-book:before {
+  content: ""; }
+
+.flaticon-inclined-lead:before {
+  content: ""; }
+
+.flaticon-inclined-marker:before {
+  content: ""; }
+
+.flaticon-inclined-pencil:before {
+  content: ""; }
+
+.flaticon-inclined-pendrive:before {
+  content: ""; }
+
+.flaticon-incognito-1:before {
+  content: ""; }
+
+.flaticon-incognito:before {
+  content: ""; }
+
+.flaticon-incoming-call:before {
+  content: ""; }
+
+.flaticon-ink-cartirdge:before {
+  content: ""; }
+
+.flaticon-ink-drops:before {
+  content: ""; }
+
+.flaticon-ink-level:before {
+  content: ""; }
+
+.flaticon-inkwell:before {
+  content: ""; }
+
+.flaticon-linkedin:before {
+  content: ""; }
+
+.flaticon-long-envelope:before {
+  content: ""; }
+
+.flaticon-magnifier-len:before {
+  content: ""; }
+
+.flaticon-medal:before {
+  content: ""; }
+
+.flaticon-museum:before {
+  content: ""; }
+
+.flaticon-newspaper-folded:before {
+  content: ""; }
+
+.flaticon-newspaper:before {
+  content: ""; }
+
+.flaticon-next-1:before {
+  content: ""; }
+
+.flaticon-next:before {
+  content: ""; }
+
+.flaticon-notebook-1:before {
+  content: ""; }
+
+.flaticon-notebook-2:before {
+  content: ""; }
+
+.flaticon-notebook-with-rings:before {
+  content: ""; }
+
+.flaticon-office-scanner:before {
+  content: ""; }
+
+.flaticon-old-camera:before {
+  content: ""; }
+
+.flaticon-old-printer:before {
+  content: ""; }
+
+.flaticon-open-book-1:before {
+  content: ""; }
+
+.flaticon-open-book:before {
+  content: ""; }
+
+.flaticon-paint-can-open:before {
+  content: ""; }
+
+.flaticon-pantone:before {
+  content: ""; }
+
+.flaticon-paper-drill:before {
+  content: ""; }
+
+.flaticon-paper-guillotine:before {
+  content: ""; }
+
+.flaticon-paper-plane-1:before {
+  content: ""; }
+
+.flaticon-paper-plane:before {
+  content: ""; }
+
+.flaticon-paper-roll-1:before {
+  content: ""; }
+
+.flaticon-paper-roll:before {
+  content: ""; }
+
+.flaticon-paper-tray:before {
+  content: ""; }
+
+.flaticon-parking:before {
+  content: ""; }
+
+.flaticon-pencil-and-ruler-crossed:before {
+  content: ""; }
+
+.flaticon-pencil-can:before {
+  content: ""; }
+
+.flaticon-pencil-sharpener:before {
+  content: ""; }
+
+.flaticon-plus:before {
+  content: ""; }
+
+.flaticon-press:before {
+  content: ""; }
+
+.flaticon-price-list:before {
+  content: ""; }
+
+.flaticon-print-mark:before {
+  content: ""; }
+
+.flaticon-printing-document:before {
+  content: ""; }
+
+.flaticon-printing-text:before {
+  content: ""; }
+
+.flaticon-protactor-measuring:before {
+  content: ""; }
+
+.flaticon-quotation-1:before {
+  content: ""; }
+
+.flaticon-quotation:before {
+  content: ""; }
+
+.flaticon-quote-1:before {
+  content: ""; }
+
+.flaticon-quote-2:before {
+  content: ""; }
+
+.flaticon-quote-3:before {
+  content: ""; }
+
+.flaticon-quote-4:before {
+  content: ""; }
+
+.flaticon-quote-right:before {
+  content: ""; }
+
+.flaticon-quote:before {
+  content: ""; }
+
+.flaticon-rating:before {
+  content: ""; }
+
+.flaticon-recycling-sign:before {
+  content: ""; }
+
+.flaticon-remove:before {
+  content: ""; }
+
+.flaticon-reply-all-1:before {
+  content: ""; }
+
+.flaticon-reply-all:before {
+  content: ""; }
+
+.flaticon-resources:before {
+  content: ""; }
+
+.flaticon-right-alignment:before {
+  content: ""; }
+
+.flaticon-right-arrow:before {
+  content: ""; }
+
+.flaticon-right:before {
+  content: ""; }
+
+.flaticon-ring-calendar:before {
+  content: ""; }
+
+.flaticon-road-billboard:before {
+  content: ""; }
+
+.flaticon-rubber-stamp:before {
+  content: ""; }
+
+.flaticon-scissors-and-cutout-lines:before {
+  content: ""; }
+
+.flaticon-search:before {
+  content: ""; }
+
+.flaticon-share:before {
+  content: ""; }
+
+.flaticon-size-square:before {
+  content: ""; }
+
+.flaticon-speaking:before {
+  content: ""; }
+
+.flaticon-staple-remover:before {
+  content: ""; }
+
+.flaticon-stapler:before {
+  content: ""; }
+
+.flaticon-star:before {
+  content: ""; }
+
+.flaticon-street-bin:before {
+  content: ""; }
+
+.flaticon-tablet-with-pen:before {
+  content: ""; }
+
+.flaticon-three-pins:before {
+  content: ""; }
+
+.flaticon-transform-square:before {
+  content: ""; }
+
+.flaticon-twitter:before {
+  content: ""; }
+
+.flaticon-vector-lines:before {
+  content: ""; }
+
+.flaticon-vinyl-printer:before {
+  content: ""; }
+
+.flaticon-white-origami-plane:before {
+  content: ""; }
+
+.flaticon-white-sheets:before {
+  content: ""; }
+
+.flaticon-worldwide:before {
+  content: ""; }
